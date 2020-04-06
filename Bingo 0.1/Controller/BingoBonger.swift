@@ -323,6 +323,7 @@ class BingoBonger: UIViewController {
         else{
             sender.backgroundColor = UIColor.systemPink
             sender.setTitleColor(UIColor.white, for: .normal)
+            HapticFeedback.playSelection()
             checkBingo(buttonId: buttonId)
         }
     }
