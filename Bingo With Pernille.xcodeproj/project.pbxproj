@@ -90,9 +90,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		781259BB242F979E00AF42AD /* Bingo 0.1 */ = {
+		781259BB242F979E00AF42AD /* Bingo With Pernille */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 781259D0242F97A100AF42AD /* Build configuration list for PBXNativeTarget "Bingo 0.1" */;
+			buildConfigurationList = 781259D0242F97A100AF42AD /* Build configuration list for PBXNativeTarget "Bingo With Pernille" */;
 			buildPhases = (
 				781259B8242F979E00AF42AD /* Sources */,
 				781259B9242F979E00AF42AD /* Frameworks */,
@@ -102,7 +102,7 @@
 			);
 			dependencies = (
 			);
-			name = "Bingo 0.1";
+			name = "Bingo With Pernille";
 			productName = "Bingo 0.1";
 			productReference = 781259BC242F979E00AF42AD /* Bingo With Pernille.app */;
 			productType = "com.apple.product-type.application";
@@ -122,7 +122,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 781259B7242F979E00AF42AD /* Build configuration list for PBXProject "Bingo 0.1" */;
+			buildConfigurationList = 781259B7242F979E00AF42AD /* Build configuration list for PBXProject "Bingo With Pernille" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -135,7 +135,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				781259BB242F979E00AF42AD /* Bingo 0.1 */,
+				781259BB242F979E00AF42AD /* Bingo With Pernille */,
 			);
 		};
 /* End PBXProject section */
@@ -347,7 +347,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		781259B7242F979E00AF42AD /* Build configuration list for PBXProject "Bingo 0.1" */ = {
+		781259B7242F979E00AF42AD /* Build configuration list for PBXProject "Bingo With Pernille" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				781259CE242F97A100AF42AD /* Debug */,
@@ -356,7 +356,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		781259D0242F97A100AF42AD /* Build configuration list for PBXNativeTarget "Bingo 0.1" */ = {
+		781259D0242F97A100AF42AD /* Build configuration list for PBXNativeTarget "Bingo With Pernille" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				781259D1242F97A100AF42AD /* Debug */,
