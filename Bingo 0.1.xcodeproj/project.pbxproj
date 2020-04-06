@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		781259BC242F979E00AF42AD /* Bingo 0.4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bingo 0.4.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		781259BC242F979E00AF42AD /* Bingo With Pernille.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bingo With Pernille.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		781259BF242F979E00AF42AD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		781259C1242F979E00AF42AD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		781259C3242F979E00AF42AD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,7 +56,7 @@
 		781259BD242F979E00AF42AD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				781259BC242F979E00AF42AD /* Bingo 0.4.app */,
+				781259BC242F979E00AF42AD /* Bingo With Pernille.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -104,7 +104,7 @@
 			);
 			name = "Bingo 0.1";
 			productName = "Bingo 0.1";
-			productReference = 781259BC242F979E00AF42AD /* Bingo 0.4.app */;
+			productReference = 781259BC242F979E00AF42AD /* Bingo With Pernille.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -309,16 +309,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 3;
 				DEVELOPMENT_TEAM = 9W8J2TLNVW;
 				INFOPLIST_FILE = "Bingo 0.1/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = "1 ";
+				MARKETING_VERSION = 2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.PernilleISmith.BingoWithPernille;
-				PRODUCT_NAME = "Bingo 0.4";
+				PRODUCT_NAME = "Bingo With Pernille";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -329,16 +329,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 3;
 				DEVELOPMENT_TEAM = 9W8J2TLNVW;
 				INFOPLIST_FILE = "Bingo 0.1/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = "1 ";
+				MARKETING_VERSION = 2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.PernilleISmith.BingoWithPernille;
-				PRODUCT_NAME = "Bingo 0.4";
+				PRODUCT_NAME = "Bingo With Pernille";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
